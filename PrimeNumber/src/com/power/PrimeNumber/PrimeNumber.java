@@ -20,5 +20,6 @@ public class PrimeNumber {
 			System.out.println("This is not prime  Number");
 		}
 		System.out.println( System.currentTimeMillis()-currentTimeMillis);
+		System.out.println("Thanks !");
 	}
 }
